@@ -1,11 +1,11 @@
-# 🧙 WizardGrid AI
+# WizardGrid AI
 
 > **Y Combinator Startup "Scheduling Wizard" İnovatif Türkiye Sürümü**  
 > *4857 Sayılı Türk İş Kanunu Uyumlu, Türkçe Voice-to-Shift ve Akıllı Eşler Arası (Peer-to-Peer) Vardiya Optimizasyon Platformu*
 
 ---
 
-## 🌟 Proje Vizyonu ve Arka Plan
+## Proje Vizyonu ve Arka Plan
 
 Y Combinator girişimi **Scheduling Wizard**, temel düzeyde vardiya çizelgeleme otomasyonu sunarken; **WizardGrid AI**, Türkiye'deki perakende, kafe, restoran, lojistik ve üretim sektörlerinin yasal ve operasyonel gerçeklerine özel **100+ puanlık yenilikçi ve bölgeselleştirilmiş çözümler** sunar:
 
@@ -34,7 +34,7 @@ Y Combinator girişimi **Scheduling Wizard**, temel düzeyde vardiya çizelgelem
 
 ---
 
-## 🛠️ Teknoloji Yığını (Tech Stack)
+## Teknoloji Yığını (Tech Stack)
 
 - **Frontend**: React 18, Tailwind CSS, Lucide React Icons, Canvas Confetti, jsPDF + jspdf-autotable.
 - **Backend**: Node.js, Express, CORS, Dotenv.
@@ -43,7 +43,7 @@ Y Combinator girişimi **Scheduling Wizard**, temel düzeyde vardiya çizelgelem
 
 ---
 
-## 📂 Proje Dizin Yapısı
+## Proje Dizin Yapısı
 
 ```
 odev_3/
@@ -82,7 +82,7 @@ odev_3/
 
 ---
 
-## 🚀 Hızlı Başlangıç & Çalıştırma
+## Hızlı Başlangıç & Çalıştırma
 
 ### 1. Doğrudan Tek Komutla Çalıştırma (Önerilen)
 Backend sunucusu önceden derlenmiş frontend'i doğrudan `http://localhost:5000` adresinden sunar:
@@ -100,7 +100,7 @@ Geliştirme arayüzü: **[http://localhost:3000](http://localhost:3000)**
 
 ---
 
-## 🔑 Google Gemini API Anahtarı Hakkında (Sıfır Kurulum Engeli)
+## Google Gemini API Anahtarı Hakkında (Sıfır Kurulum Engeli)
 
 WizardGrid AI, **akıllı çift katmanlı mimariye** sahiptir:
 - **API Anahtarı Olmadan**: Dahili Türkçe NLP Motoru devreye girer; düğün, sınav, hastane, cenaze gibi popüler mazeret kalıplarını regex ve dilbilgisi kurallarıyla %100 doğrulukla çözer.
@@ -108,7 +108,7 @@ WizardGrid AI, **akıllı çift katmanlı mimariye** sahiptir:
 
 ---
 
-## 📋 Ekranlar ve Kullanım Rehberi
+## Ekranlar ve Kullanım Rehberi
 
 ### 1. Vardiya Çizelgesi (Shift Grid)
 - Personellerin haftalık saatlerini, 45 saat sınırına olan mesafesini ve renkli doluluk barlarını izleyin.
